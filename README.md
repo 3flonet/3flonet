@@ -1,4 +1,4 @@
-# Hi, I'm 3flonet 👋
+# Hi, I'm 3flo 👋
 ### Full-Stack Developer | Software Architect
 
 I specialize in building high-end digital ecosystems with a focus on security and scalability.
