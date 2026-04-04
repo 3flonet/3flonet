@@ -26,14 +26,6 @@ I specialize in building high-end digital ecosystems with a focus on security an
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3flonet&layout=compact&theme=radical" height="150" />
 </p>
 
-### 🏆 Profile Trophies
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=3flonet&theme=radical" />
-</p>
-
-
-
-
 ---
 
 ### 📈 Activity Graph
