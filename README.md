@@ -9,7 +9,7 @@ I specialize in building high-end digital ecosystems with a focus on security an
 **Unified Full-Stack Licensing Ecosystem**
 - 🛡️ **Status:** ![CI Status](https://github.com/3flonet/licensehub-suite/actions/workflows/laravel-ci.yml/badge.svg)
 - 🛠️ **Tech:** Laravel 11, React 18, Filament v3, Midtrans.
-- 🔗 [Explore Repository](https://github.com/3flonet/licensehub-suite)
+- 🔗 [Explore Repository](https://github.com/3flonet?tab=repositories)
 
 ---
 
