@@ -20,9 +20,15 @@ I specialize in building high-end digital ecosystems with a focus on security an
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Stats
 <p align="left">
-<img src="https://metrics.lecoq.io/3flonet?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.recent.categories=markup,programming&languages.recent.load=300&languages.recent.days=14&languages.sections=most-used&languages.indention=2&languages.details=bytes-size,percentage&timezone=Asia/Jakarta&config.timezone=Asia/Jakarta" width="100%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=3flonet&show_icons=true&theme=radical&count_private=true" height="150" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3flonet&layout=compact&theme=radical" height="150" />
+</p>
+
+### 🏆 Profile Trophies
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=3flonet&theme=radical" />
 </p>
 
 
