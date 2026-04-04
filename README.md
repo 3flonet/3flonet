@@ -22,9 +22,10 @@ I specialize in building high-end digital ecosystems with a focus on security an
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=3flonet&show_icons=true&theme=radical&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3flonet&layout=compact&theme=radical" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=3flonet&show_icons=true&theme=radical&count_private=true&v=1" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3flonet&layout=compact&theme=radical&v=1" height="150" />
 </p>
+
 
 ---
 
